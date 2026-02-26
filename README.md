@@ -11,4 +11,4 @@ Salary expenditure varies significantly across teams and positions. Certain team
 
 Through data cleaning, aggregation, visualization, and correlation analysis, raw data was transformed into meaningful business insights that can assist management in workforce planning and strategic decision-making.
 
-All visualizations were created using Matplotlib and Seaborn to ensure clear and professional representation of findings.
+All visualizations were created using Matplotlib and Seaborn to ensure clear and professional representation of findings. 
